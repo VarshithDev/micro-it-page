@@ -27,6 +27,9 @@ A responsive, interactive portal page built for **Micro Information Technology S
 - ✨ Smooth scrolling to sections
 - 📵 Scroll lock when sidebar is active
 
+Demo:
+https://varshithdev.github.io/micro-it-page/
+
 ---
 
 ## 🛠 Technologies Used
